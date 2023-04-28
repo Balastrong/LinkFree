@@ -6,7 +6,7 @@ LinkFree is the Open Source alternative to LinkTree. A platform where people in 
 
 Your profile will have links to your social media and content. You can also add your timeline, testimonials, and upcoming events that you are participating in.
 
-Here is an example of a LinkFree Profile https://linkfree.eddiehub.io/eddiejaoude
+Here is an example of a LinkFree Profile [LIVE](https://linkfree.eddiehub.io/eddiejaoude)
 
 ![Example profile on LinkFree](https://user-images.githubusercontent.com/51878265/211527055-d90f94f5-f6a9-44a7-be0f-905f5e45429e.png)
 
@@ -28,13 +28,15 @@ You have 4 options to contribute to the repo, please pick your favourite from:
 3. Local development
 4. Local development with Docker Compose
 
-Brief documentation is below, but full documentation can be found here https://linkfree.eddiehub.io/docs
+Brief documentation is below, but full documentation can be found [HERE](https://linkfree.eddiehub.io/docs)
 
 ### GitHub UI
 
 This is great if you only want to add your Profile or make changes to it.
 
-Here is the **QuickStart** guide to add your profile https://linkfree.eddiehub.io/docs/quickstart
+Here is the **QuickStart** guide to add your profile 
+
+For a QuickStart guide to adding your profile [CLICK HERE](https://linkfree.eddiehub.io/docs/quickstart)
 
 *note: give extra attention to JSON formatting and the GitHub Action after you create the Pull Request*
 
@@ -80,7 +82,7 @@ This will allow you to run your favourite IDE but not have to install any depend
 
 ### 🙂 How to add YOUR Profile
 
-Step by step quickstart guide can be found in the full docs here https://linkfree.eddiehub.io/docs/quickstart
+Step by step quickstart guide can be found in the full documents [Here](https://linkfree.eddiehub.io/docs/quickstart)
 
 ---
 
